@@ -37,19 +37,6 @@ Para desarrollar con React Native necesitas:
 
 ## 🚀 Comenzando
 
-### Instalación
-
-```sh
-# Clona este repositorio
-git clone https://github.com/tu-usuario/react-native-crud-persons.git
-
-# Navega al directorio del proyecto
-cd react-native-crud-persons
-
-# Instala las dependencias
-yarn install
-```
-
 ### Comandos Disponibles
 
 | Comando | Descripción |
@@ -60,24 +47,6 @@ yarn install
 | `yarn lint` | Ejecuta ESLint para verificar el código |
 | `yarn build` | Compila la aplicación para producción |
 
-## 📂 Estructura del Proyecto
-
-```
-/
-├── assets/            # Recursos estáticos (imágenes, fuentes)
-├── src/              
-│   ├── components/    # Componentes reutilizables
-│   ├── screens/       # Pantallas de la aplicación
-│   ├── services/      # Lógica de API y almacenamiento
-│   ├── models/        # Tipos y interfaces
-│   ├── utils/         # Funciones utilitarias
-│   ├── App.tsx        # Componente principal
-│   └── index.tsx      # Punto de entrada
-├── .eslintrc.js       # Configuración de ESLint
-├── app.json           # Configuración de Expo
-├── package.json       # Dependencias del proyecto
-└── tsconfig.json      # Configuración de TypeScript
-```
 
 ## 🔍 Funcionalidades Principales
 
